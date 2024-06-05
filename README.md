@@ -1,5 +1,5 @@
 # Deepfake Detection Engine with Social Media Bot
-The Deepfake Bot that not only made me win my first Hackathon, but also was topic for Major Project and the Research Paper that followed...  
+The Deepfake Bot that not only made me win my first Hackathon, but also was the topic for my Major Project and the Research Paper that followed...  
 Originally derived from: https://github.com/chinmaynehate/DFSpot-Deepfake-Recognition  
 
 # Introduction
