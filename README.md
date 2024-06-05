@@ -15,7 +15,7 @@ It does this via a four phase system that I came up with (similar to that of Aut
   The bot completes the execution and terminates the script. (Currently working on a loop system where Phase 3 redirects to Phase 2, and Phase 4 becomes a Termination phase that is triggered either manually or due to Error-Handling Exceptions)
 
 # The Deepfake Engine  
-The Deepfake Engine has been ported over from [@chinmaynehate](https://github.com/chinmaynehate)'s repo with lots of changes that included OS conversions, upgrading Python and majority of the packages to newer more compatible versions, including the addition of more QoL features.  
+The Deepfake Engine has been ported over from [@chinmaynehate](https://github.com/chinmaynehate)'s repo with lots of changes that included OS transition, upgrading Python and majority of the packages to newer more compatible versions, including the addition of more QoL features.  
 In summary, it is an ensemble of two models that were trained on [Facebook Deepfake Detection Challenge Dataset](https://ai.meta.com/datasets/dfdc/) from 2019  
 
 # Made with  
@@ -35,5 +35,5 @@ You can however [contact me](https://www.linkedin.com/in/manviquadri/) anytime a
 [![YouTube Video Thumbnail](https://img.youtube.com/vi/VrXlTD_9YJo/0.jpg)](https://www.youtube.com/watch?v=VrXlTD_9YJo)
 
 # What to Expect
-This project is by no means finished, as a matter of fact I have a notepad full of ideas and features that I'd like to implement, one of which is to turn the project from manually execution to one that can be hosted live on a server 24/7 and act as a service on Twitter (or any social-media for that matter). I've always held this project dear to me especially since it secured my win for a Hackathon that took place at MJCET, Hyderabad, India in December of 2023.  
+This project is by no means finished, as a matter of fact I have a notepad full of ideas and features that I'd like to implement, one of which is to turn the project from manual execution to one that can be hosted live on a server 24/7 and act as a service on Twitter (or any social-media for that matter). I've always held this project dear to me especially since it secured my win for a Hackathon that took place at MJCET, Hyderabad, India in December of 2023.  
 I am open to feedback, and would love to collaborate with anyone who has ideas to share!
