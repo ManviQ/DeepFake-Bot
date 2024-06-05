@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints
+models/
+sample_videos/
+sample_images/
+sample_output_videos/
+*.zip
